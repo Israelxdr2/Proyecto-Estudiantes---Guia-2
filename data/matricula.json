@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "estudiante_id": 2,
+    "materia_id": 1,
+    "periodo": 2026,
+    "nota": 18.0,
+    "fecha": "2026-10-12"
+  },
+  {
+    "id": 2,
+    "estudiante_id": 2,
+    "materia_id": 2,
+    "periodo": 2026,
+    "nota": 17.0,
+    "fecha": "2026-10-12"
+  },
+  {
+    "id": 3,
+    "estudiante_id": 1,
+    "materia_id": 1,
+    "periodo": 2027,
+    "nota": 0.0,
+    "fecha": "2026-10-12"
+  }
+]

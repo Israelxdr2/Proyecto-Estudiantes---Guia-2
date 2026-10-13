@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nombre": "Matematica",
+    "codigo": "229",
+    "cupos": 28,
+    "creditos": 4
+  },
+  {
+    "id": 2,
+    "nombre": "Fisica",
+    "codigo": "250",
+    "cupos": 29,
+    "creditos": 5
+  }
+]

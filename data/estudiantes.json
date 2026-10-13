@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ismael",
+    "apellido": "Rodri",
+    "email": "ismael@gmail.com",
+    "carnet": "EST1001",
+    "carrera": "Ing Software"
+  },
+  {
+    "id": 2,
+    "nombre": "Israel",
+    "apellido": "Rodriguez",
+    "email": "israxd@gmail.com",
+    "carnet": "EST2028",
+    "carrera": "Ing Software"
+  }
+]
